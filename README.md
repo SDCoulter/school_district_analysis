@@ -76,7 +76,7 @@ There is a slight decrease in the passing percentages but not enough to bump the
 
 ### How does replacing the ninth-grade scores affect the following:
 
-- Math and reading scores by grade
+**Math and Reading Scores by Grade:**
 
 Here we can see first the math scores by grade and then the reading scores by grade, from the original module and then the challenge, for Thomas High School:
 
@@ -84,13 +84,13 @@ Here we can see first the math scores by grade and then the reading scores by gr
 |:----------------------|------:|-------:|-------:|-------:|
 | Thomas High School    |  83.6 |   83.1 |   83.5 |   83.5 |
 | Thomas High School    | nan   |   83.1 |   83.5 |   83.5 |
-|:----------------------|------:|-------:|-------:|-------:|
+|                       |       |        |        |        |
 | Thomas High School    |  83.7 |   84.3 |   83.6 |   83.8 |
 | Thomas High School    | nan   |   84.3 |   83.6 |   83.8 |
 
 The major change is the missing data. (Obviously the tenth, eleventh, and twelfth grade scores would be unaffected by the removal of the ninth grade scores.) The missing data is the result of us choosing to simply remove the scores rather than try to change them to more accurate scores, or handling this data cleaning in a different way. We could have chosen to take the averages of the other schools falling in similar categories and substituted that data in rather than removing it, but that's a point for a different analysis.
 
-- Scores by school spending
+**Scores by School Spending:**
 
 The schools and scores sorted by spending from the module:
 
@@ -112,7 +112,7 @@ And the schools and scores sorted after removing THS ninth graders scores:
 
 As we can see there is no change.
 
-- Scores by school size
+**Scores by School Size:**
 
 From the module, by school size:
 
