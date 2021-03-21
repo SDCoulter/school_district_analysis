@@ -4,9 +4,9 @@
 
 We are tasked with preparing standardised test data for analysis, reporting, and presentation to provide insights about performance trends and patterns. We were given a dataset of schools in the district as well as a dataset of students at those schools and their corresponding math and reading test scores. We had to aggregate the data and look for trends in school performance based on a variety of categories.
 
-We want to look at the math and reading scores and the passing rates, and look for trends based on school type, budget, size, and grades (schooling years). We would take the data and sort it into the chosen categories and group by our chosen ranges.
+We want to look at the math and reading scores and the passing rates, and look for trends based on school type, budget, size, and grades (schooling years). We would take the data and sort it into the chosen categories and group by our chosen ranges. This analysis will assist the school board and superintendent on making decisions regarding the school budgets and priorities.
 
-For the challenge part of the analysis we looked at how removing Thomas High School's 9th Grade math and reading scores would affect the analysis. We compare the same categories mentioned above after removing the scores, and look to see where the biggest changes are.
+For the challenge part of the analysis we looked at how removing Thomas High School's 9th Grade math and reading scores would affect the analysis. Evidence of academic dishonesty shows that these scores appear to have been altered. Although the extent of this issue the school board wishes to uphold state-testing standards and have come to us for help. We compare the same categories mentioned above after removing the scores, and look to see where the biggest changes are.
 
 ## Challenge - Results
 
@@ -132,7 +132,7 @@ From the challenge, by school size:
 
 Again, there is no change.
 
-- Scores by school type
+**Scores by School Type:**
 
 From the module, by school type:
 
