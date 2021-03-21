@@ -132,7 +132,7 @@ From the challenge, by school size:
 
 Again, there is no change.
 
-- Scores by school type
+**Scores by School Type:**
 
 From the module, by school type:
 
