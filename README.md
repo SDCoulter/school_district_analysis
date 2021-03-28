@@ -136,7 +136,7 @@ As you can see from the two summaries, removing one school's reading and math sc
 
 The school summary is effected heavily by the removal of the ninth grader's scores from Thomas High School. The passing percentages for THS have decreased immensely, as would be expected when you essentially look at zero-ing a large portion of one school's results, and also when their original scores were so high.
 
-![](analytics/school_summary_after.png)
+![](analysis/school_summary_after.png)
 
 As we can see the passing percentages for Math, Reading, and Overall have dropped from the original:
 
